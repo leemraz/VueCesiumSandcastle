@@ -11,6 +11,6 @@
 
 
 
-![1646124086485](.\img\1646124086485.png)
+![1646124086485](https://github.com/leemraz/VueCesiumSandcastle/blob/main/img/1646124086485.png)
 
 # 4 其它后续补充
