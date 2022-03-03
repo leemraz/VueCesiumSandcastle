@@ -2,6 +2,7 @@
 
 ## 1 说明 
 基于Vue的Cesium官方示例展示
+欢迎star，欢迎大家来一起更新
 
 ## 2 技术框架
 - 前端 https://github.com/PanJiaChen/vue-element-admin

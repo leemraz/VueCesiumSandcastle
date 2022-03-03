@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "axios": "0.18.1",
-    "cesium": "^1.90.0",
+    "cesium": "^1.91.0",
     "clipboard": "2.0.4",
     "codemirror": "5.45.0",
     "core-js": "3.6.5",
